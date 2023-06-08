@@ -2,7 +2,7 @@
 This project contains automated tests using Cypress for https://demo.casino/. It verifies the functionality of register and and the replenishment of funds in the account.
 
 ## Installation
-1. Clone the repository:  ```git clone https://github.com/SAITO990/AutomationDemoBSA```
+1. Clone the repository:  ```git clone https://github.com/josele87/AutomationDemoBSA.git```
 2. Navigate to the project directory: ```cd [project directory]```
 3. Install the dependencies: ```npm install```
 
